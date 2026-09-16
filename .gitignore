@@ -1,0 +1,11 @@
+# activation caches and trained SAEs — large, rebuildable via build_cache.py
+acts_*.pt
+sae_layer*.pt
+
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# cloned separately, has its own repo
+btop/
