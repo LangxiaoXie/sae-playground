@@ -9,3 +9,6 @@ __pycache__/
 
 # cloned separately, has its own repo
 btop/
+
+# editor settings, local to each machine
+.vscode/
